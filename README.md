@@ -11,3 +11,4 @@ Transaction History: Track all donations made with details such as date, amount,
 Total Funds Raised: Display the total amount collected in real time to inspire more contributions.
 User Accounts: Allow users to create profiles for personalized experiences and easier donation tracking.
 Thank You Notes: Automatically generate and send acknowledgment messages to donors.
+![dONATION](https://github.com/user-attachments/assets/1fafbd1c-7e62-4fa7-95c8-1695fb0b627d)
